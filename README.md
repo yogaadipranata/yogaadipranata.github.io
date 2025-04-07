@@ -20,7 +20,7 @@ This is my personal portfolio website designed to showcase my projects, skills, 
 
 ### 🔗 Live Demo
 You can access the live version of the website here:  
-[yogaadipranata.github.io](yogaadipranata.github.io)
+[yogaadipranata.github.io](https://yogaadipranata.github.io/)
 
 ## 🤝 Contributing Guidelines
 1. Fork the project
